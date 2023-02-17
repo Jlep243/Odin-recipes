@@ -17,7 +17,8 @@ body
 
 .items .list button 
 {
-    background-color:green;
+    color:white;
+    background-color:#33cc33;
     width:300px;
     height:90px;
     margin-bottom:20px;
