@@ -3,19 +3,19 @@ body
     background-color:beige;
 }
 
-.list 
+.list /* this selects the list class */
 {
     list-style-type:none;
 }
 
-#Content
+#Content /* index.html "nav bar" */
 {
     background-color:white;
     height:auto;
     width:325px;
 }
 
-.items .list button 
+.items .list button /* properties of the buttons list*/
 {
     color:white;
     background-color:#33cc33;
